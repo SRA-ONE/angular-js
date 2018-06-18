@@ -1,0 +1,11 @@
+{
+  "name": "ui-routing",
+  "version": "1.0.0",
+  "description": "Code and demo for the scotch.io tutorial",
+  "main": "app.js",
+  "scripts": {
+    "lite": "lite-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
